@@ -20,7 +20,7 @@ def do_get_request(url: str, headers: dict):
         logging.error("GET request failed: %s", e)
         return None
 
-def main(api_url: str, api_key: str):
+def main(api_url: str, api_key: str, start_date: str):
     logging.info("Application started")
     logging.info("API Key: %s", api_key)
 
@@ -30,10 +30,7 @@ def main(api_url: str, api_key: str):
     }
 
     response = do_get_request(f"{api_url}/workouts", headers=headers)
-#     print("response:", type(response))
-#    print("response[page]:", response["page"])
-#    print("response[workouts]:", len(response["workouts"]))
-#    print("response[workouts][0]:", response["workouts"][0])
+
     for workout in response["workouts"]:
         workout_date = datetime.fromisoformat(workout['start_time'])
         logging.info("%s", workout['title']) 
@@ -42,8 +39,12 @@ def main(api_url: str, api_key: str):
         for exercise in exercises:
             logging.info(" - %s", exercise['title'])
             sets = exercise['sets']
-            for s in sets:
-                logging.info("    * Reps: %s, Weight: %s kg", s['reps'], s['weight_kg'])
+
+            if exercise['title'] == "Treadmill":
+                logging.info("    * Distancia: %s metros, Tempo: %s segundos", sets[0]["distance_meters"], sets[0]["duration_seconds"])
+            else:
+                for s in sets:
+                    logging.info("    * Reps: %s, Peso: %s kg", s['reps'], s['weight_kg'])
         logging.info(120*"-")   
 
 if __name__ == "__main__":
@@ -53,4 +54,4 @@ if __name__ == "__main__":
         logging.error("Environment variable API_KEY is not set")
         sys.exit(1)
 
-    main(api_url=API_URL, api_key=API_KEY)
+    main(api_url=API_URL, api_key=API_KEY, start_date="2025-08-31")
