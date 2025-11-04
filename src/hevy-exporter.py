@@ -5,10 +5,10 @@ import sys
 import requests
 import os
 from datetime import datetime
+import argparse
 
-logging.basicConfig(stream=sys.stdout, level=logging.INFO,
-                    format='%(levelname)s: %(message)s')
-
+# Drop the loglevel
+logging.basicConfig(level=logging.INFO, stream=sys.stdout, format='%(message)s')
 
 def do_get_request(url: str, headers: dict):
     try:
@@ -20,9 +20,10 @@ def do_get_request(url: str, headers: dict):
         logging.error("GET request failed: %s", e)
         return None
 
-def main(api_url: str, api_key: str, start_date: str):
+def main(api_url: str, api_key: str, start_date):
     logging.info("Application started")
     logging.info("API Key: %s", api_key)
+    logging.info("start_date: %s", start_date)
 
     headers = {
         "api-key": api_key,
@@ -47,11 +48,32 @@ def main(api_url: str, api_key: str, start_date: str):
                     logging.info("    * Reps: %s, Peso: %s kg", s['reps'], s['weight_kg'])
         logging.info(120*"-")   
 
+def parse_args():
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description="Data de início dos treinos.")
+    parser.add_argument("start_date", type=str, help="format YYYY-MM-DD")
+
+    # Parse arguments
+    args = parser.parse_args()
+
+    start_date = None
+
+    # Validate and convert to date
+    try:
+        start_date = datetime.strptime(args.start_date, "%Y-%m-%d").date()
+        print(f"Start date is: {start_date}")
+    except ValueError:
+        print("Error: start_date must be in YYYY-MM-DD format.")
+
+    return start_date
+
 if __name__ == "__main__":
     API_URL = "https://api.hevyapp.com/v1"
-    API_KEY = os.getenv("API_KEY")
+    API_KEY = os.getenv("HEVY_API_KEY")
     if not API_KEY:
         logging.error("Environment variable API_KEY is not set")
         sys.exit(1)
 
-    main(api_url=API_URL, api_key=API_KEY, start_date="2025-08-31")
+    start_date = parse_args()
+
+    main(api_url=API_URL, api_key=API_KEY, start_date=start_date)
