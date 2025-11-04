@@ -1,0 +1,977 @@
+1) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 31-10-2025
+ - Chest Press (Machine)
+    * Reps: 12, Peso: 32 kg
+    * Reps: 12, Peso: 32 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+ - Chest Fly (Machine)
+    * Reps: 15, Peso: 66 kg
+    * Reps: 12, Peso: 66 kg
+    * Reps: 12, Peso: 66 kg
+    * Reps: 12, Peso: 66 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 8, Peso: 14 kg
+    * Reps: 8, Peso: 14 kg
+ - Triceps Pushdown
+    * Reps: 20, Peso: 23 kg
+    * Reps: 20, Peso: 23 kg
+    * Reps: 20, Peso: 23 kg
+    * Reps: 20, Peso: 23 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+ - Treadmill
+    * Distancia: 1620 metros, Tempo: 1230 segundos
+------------------------------------------------------------------------------------------------------------------------
+2) TREINO C (pernas) - [2025-08-31]
+Data: 29-10-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 59 kg
+    * Reps: 15, Peso: 59 kg
+    * Reps: 15, Peso: 59 kg
+    * Reps: 15, Peso: 59 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 75 kg
+    * Reps: 20, Peso: 75 kg
+    * Reps: 20, Peso: 75 kg
+    * Reps: 20, Peso: 70 kg
+ - Treadmill
+    * Distancia: 1620 metros, Tempo: 1240 segundos
+------------------------------------------------------------------------------------------------------------------------
+3) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 24-10-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 10, Peso: 54.3 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 20 kg
+    * Reps: 10, Peso: 20 kg
+    * Reps: 10, Peso: 20 kg
+    * Reps: 10, Peso: 20 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+------------------------------------------------------------------------------------------------------------------------
+4) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 23-10-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 39 kg
+    * Reps: 10, Peso: 39 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 66 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 18 kg
+    * Reps: 12, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 9, Peso: 18 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 23 kg
+    * Reps: 15, Peso: 23 kg
+    * Reps: 15, Peso: 23 kg
+    * Reps: 15, Peso: 23 kg
+ - Treadmill
+    * Distancia: 1550 metros, Tempo: 1230 segundos
+------------------------------------------------------------------------------------------------------------------------
+5) TREINO C (pernas) - [2025-08-31]
+Data: 21-10-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+    * Reps: 10, Peso: 180 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 70 kg
+    * Reps: 20, Peso: 70 kg
+    * Reps: 20, Peso: 70 kg
+    * Reps: 20, Peso: 70 kg
+------------------------------------------------------------------------------------------------------------------------
+6) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 20-10-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 10, Peso: 54.3 kg
+    * Reps: 9, Peso: 54.3 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 18 kg
+    * Reps: 11, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+    * Reps: 12, Peso: 24.1 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+ - Treadmill
+    * Distancia: 1650 metros, Tempo: 1250 segundos
+------------------------------------------------------------------------------------------------------------------------
+7) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 17-10-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 7 kg
+    * Reps: 15, Peso: 7 kg
+    * Reps: 15, Peso: 7 kg
+    * Reps: 15, Peso: 7 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 23 kg
+    * Reps: 15, Peso: 27 kg
+    * Reps: 15, Peso: 27 kg
+    * Reps: 15, Peso: 27 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+ - Treadmill
+    * Distancia: 1650 metros, Tempo: 1250 segundos
+------------------------------------------------------------------------------------------------------------------------
+8) TREINO C (pernas) - [2025-08-31]
+Data: 16-10-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 170 kg
+    * Reps: 10, Peso: 170 kg
+    * Reps: 10, Peso: 170 kg
+    * Reps: 10, Peso: 170 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 65 kg
+    * Reps: 20, Peso: 65 kg
+    * Reps: 20, Peso: 65 kg
+    * Reps: 20, Peso: 65 kg
+ - Treadmill
+    * Distancia: 1550 metros, Tempo: 1240 segundos
+------------------------------------------------------------------------------------------------------------------------
+9) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 14-10-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+    * Reps: 12, Peso: 54.3 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+    * Reps: 10, Peso: 38.3 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 9, Peso: 24.1 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+    * Reps: 15, Peso: 60 kg
+ - Treadmill
+    * Distancia: 300 metros, Tempo: 240 segundos
+------------------------------------------------------------------------------------------------------------------------
+10) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 13-10-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 39 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+    * Reps: 10, Peso: 34.3 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 12, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 19.1 kg
+    * Reps: 12, Peso: 19.1 kg
+    * Reps: 10, Peso: 19.1 kg
+    * Reps: 8, Peso: 19.1 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+ - Treadmill
+    * Distancia: 1100 metros, Tempo: 960 segundos
+------------------------------------------------------------------------------------------------------------------------
+11) TREINO C (pernas) - [2025-08-31]
+Data: 10-10-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 155 kg
+    * Reps: 10, Peso: 160 kg
+    * Reps: 10, Peso: 160 kg
+    * Reps: 10, Peso: 160 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+    * Reps: 12, Peso: 47.3 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 12, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 52 kg
+    * Reps: 15, Peso: 52 kg
+    * Reps: 15, Peso: 54.3 kg
+    * Reps: 15, Peso: 54.3 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 60 kg
+    * Reps: 20, Peso: 60 kg
+    * Reps: 20, Peso: 60 kg
+    * Reps: 20, Peso: 60 kg
+ - Treadmill
+    * Distancia: 2500 metros, Tempo: 1800 segundos
+------------------------------------------------------------------------------------------------------------------------
+12) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 08-10-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 10, Peso: 52 kg
+    * Reps: 10, Peso: 52 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 10, Peso: 24.1 kg
+    * Reps: 10, Peso: 24.1 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 55 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+------------------------------------------------------------------------------------------------------------------------
+13) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 06-10-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 12 kg
+    * Reps: 10, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 18 kg
+    * Reps: 12, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 9, Peso: 18 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+------------------------------------------------------------------------------------------------------------------------
+14) TREINO C (pernas) - [2025-08-31]
+Data: 02-10-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 150 kg
+    * Reps: 10, Peso: 150 kg
+    * Reps: 10, Peso: 150 kg
+    * Reps: 10, Peso: 150 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 12, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+    * Reps: 10, Peso: 34.2 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 52 kg
+    * Reps: 15, Peso: 52 kg
+    * Reps: 15, Peso: 52 kg
+    * Reps: 20, Peso: 52 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 55 kg
+    * Reps: 20, Peso: 55 kg
+    * Reps: 20, Peso: 55 kg
+    * Reps: 20, Peso: 55 kg
+ - Treadmill
+    * Distancia: 800 metros, Tempo: 600 segundos
+------------------------------------------------------------------------------------------------------------------------
+15) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 30-09-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 10, Peso: 52 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 16 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+ - Treadmill
+    * Distancia: 790 metros, Tempo: 660 segundos
+------------------------------------------------------------------------------------------------------------------------
+16) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 26-09-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+    * Reps: 14, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 18 kg
+    * Reps: 12, Peso: 18 kg
+    * Reps: 9, Peso: 18 kg
+    * Reps: 9, Peso: 18 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+ - Treadmill
+    * Distancia: 1550 metros, Tempo: 1200 segundos
+------------------------------------------------------------------------------------------------------------------------
+17) TREINO C (pernas) - [2025-08-31]
+Data: 25-09-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 41.3 kg
+    * Reps: 12, Peso: 41.3 kg
+    * Reps: 12, Peso: 41.3 kg
+    * Reps: 12, Peso: 41.3 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 34.5 kg
+    * Reps: 10, Peso: 34.5 kg
+    * Reps: 10, Peso: 34.5 kg
+    * Reps: 10, Peso: 34.5 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 15, Peso: 47.3 kg
+    * Reps: 20, Peso: 47.3 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Seated Calf Raise
+    * Reps: 20, Peso: 50 kg
+    * Reps: 20, Peso: 50 kg
+    * Reps: 20, Peso: 50 kg
+    * Reps: 20, Peso: 50 kg
+ - Treadmill
+    * Distancia: 1590 metros, Tempo: 1260 segundos
+------------------------------------------------------------------------------------------------------------------------
+18) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 23-09-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 10, Peso: 52 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 12, Peso: 14 kg
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 16 kg
+    * Reps: 10, Peso: 16 kg
+ - EZ Bar Biceps Curl
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+    * Reps: 12, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+------------------------------------------------------------------------------------------------------------------------
+19) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 22-09-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+    * Reps: 12, Peso: 12 kg
+    * Reps: 10, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+    * Reps: 12, Peso: 59 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 18 kg
+    * Reps: 12, Peso: 18 kg
+    * Reps: 12, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+    * Reps: 15, Peso: 36 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+    * Reps: 15, Peso: 18 kg
+ - Treadmill
+    * Distancia: 1310 metros, Tempo: 950 segundos
+------------------------------------------------------------------------------------------------------------------------
+20) TREINO C (pernas) - [2025-08-31]
+Data: 19-09-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+    * Reps: 10, Peso: 40 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Seated Calf Raise
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+ - Treadmill
+    * Distancia: 1280 metros, Tempo: 975 segundos
+------------------------------------------------------------------------------------------------------------------------
+21) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 17-09-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+ - EZ Bar Biceps Curl
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 9, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+ - Preacher Curl (Machine)
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+    * Reps: 10, Peso: 23 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+------------------------------------------------------------------------------------------------------------------------
+22) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 16-09-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 12 kg
+    * Reps: 15, Peso: 12 kg
+    * Reps: 10, Peso: 12 kg
+    * Reps: 10, Peso: 12 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+ - Treadmill
+    * Distancia: 1180 metros, Tempo: 973 segundos
+------------------------------------------------------------------------------------------------------------------------
+23) TREINO C (pernas) - [2025-08-31]
+Data: 15-09-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+ - Seated Calf Raise
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+ - Treadmill
+    * Distancia: 650 metros, Tempo: 600 segundos
+------------------------------------------------------------------------------------------------------------------------
+24) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 12-09-2025
+ - Lat Pulldown (Cable)
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+    * Reps: 12, Peso: 45 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+ - EZ Bar Biceps Curl
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 9, Peso: 25 kg
+    * Reps: 9, Peso: 25 kg
+ - Preacher Curl (Machine)
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+------------------------------------------------------------------------------------------------------------------------
+25) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 09-09-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 10 kg
+    * Reps: 15, Peso: 10 kg
+    * Reps: 15, Peso: 10 kg
+    * Reps: 15, Peso: 10 kg
+ - Chest Fly (Machine)
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+    * Reps: 12, Peso: 52 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+------------------------------------------------------------------------------------------------------------------------
+26) TREINO C (pernas) - [2025-08-31]
+Data: 05-09-2025
+ - Leg Press (Machine)
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+    * Reps: 10, Peso: 140 kg
+ - Single Leg Press (Machine)
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+    * Reps: 10, Peso: 50 kg
+ - Leg Extension (Machine)
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+    * Reps: 12, Peso: 39 kg
+ - Lying Leg Curl (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Hip Abduction (Machine)
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+    * Reps: 15, Peso: 45 kg
+ - Hip Adduction (Machine)
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+    * Reps: 15, Peso: 39 kg
+ - Seated Calf Raise
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+    * Reps: 15, Peso: 50 kg
+ - Treadmill
+    * Distancia: 1500 metros, Tempo: 1230 segundos
+------------------------------------------------------------------------------------------------------------------------
+27) TREINO B (costas, posterior de ombros e biceps) -  [2025-08-31]
+Data: 04-09-2025
+ - Lat Pulldown (Cable)
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+    * Reps: 10, Peso: 45 kg
+ - Iso-Lateral Row (Machine)
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+    * Reps: 10, Peso: 36 kg
+ - Dumbbell Row
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+ - EZ Bar Biceps Curl
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 25 kg
+    * Reps: 10, Peso: 20 kg
+    * Reps: 10, Peso: 20 kg
+ - Preacher Curl (Machine)
+    * Reps: 15, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+    * Reps: 10, Peso: 18 kg
+ - Shrug (Smith Machine)
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+    * Reps: 15, Peso: 40 kg
+------------------------------------------------------------------------------------------------------------------------
+28) Treino A (peito ombros tríceps) [2025-08-31]
+Data: 02-09-2025
+ - Chest Press (Machine)
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+    * Reps: 10, Peso: 32 kg
+ - Incline Bench Press (Dumbbell)
+    * Reps: 15, Peso: 9 kg
+    * Reps: 15, Peso: 9 kg
+    * Reps: 15, Peso: 9 kg
+    * Reps: 15, Peso: 9 kg
+ - Seated Shoulder Press (Machine)
+    * Reps: 12, Peso: 14 kg
+    * Reps: 12, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+    * Reps: 10, Peso: 14 kg
+ - Triceps Pushdown
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+    * Reps: 15, Peso: 32 kg
+ - Overhead Triceps Extension (Cable)
+    * Reps: 15, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+    * Reps: 14, Peso: 14 kg
+    * Reps: 15, Peso: 14 kg
+ - Treadmill
+    * Distancia: 1780 metros, Tempo: 1333 segundos
+------------------------------------------------------------------------------------------------------------------------
